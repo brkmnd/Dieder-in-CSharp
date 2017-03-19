@@ -44,7 +44,7 @@
       <Project>{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}</Project>
       <Name>Strukturer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Dieder\DiederGrupper.csproj">
+    <ProjectReference Include="..\DiederGrupper\DiederGrupper.csproj">
       <Project>{64085EDA-163B-4AAA-A6BF-528804C7731F}</Project>
       <Name>DiederGrupper</Name>
     </ProjectReference>

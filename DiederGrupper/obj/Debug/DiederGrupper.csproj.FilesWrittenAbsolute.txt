@@ -14,3 +14,11 @@
 /home/birkmand/Documents/Programmering/Csharp/GtkGrupper/Dieder/bin/Debug/dieder.dll
 /home/birkmand/Documents/Programmering/Csharp/GtkGrupper/Dieder/bin/Debug/IStruktur.dll
 /home/birkmand/Documents/Programmering/Csharp/GtkGrupper/Dieder/bin/Debug/IStruktur.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/bin/Debug/Dieder.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/bin/Debug/Dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/obj/Debug/Dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/obj/Debug/Dieder.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/bin/Debug/dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/bin/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/DiederGrupper/bin/Debug/IStruktur.dll.mdb

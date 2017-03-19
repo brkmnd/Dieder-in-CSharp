@@ -1,10 +1,8 @@
 ﻿<Properties StartupItem="TUI/TUI.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Konsol/Naviger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TUI/Program.cs">
     <Files>
-      <File FileName="Konsol/Program.cs" Line="1" Column="1" />
-      <File FileName="Konsol/PrintGon.cs" Line="1" Column="1" />
-      <File FileName="Konsol/Naviger.cs" Line="26" Column="24" />
+      <File FileName="TUI/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
