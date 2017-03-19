@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Konsol/Program.cs" Line="1" Column="1" />
       <File FileName="Konsol/PrintGon.cs" Line="1" Column="1" />
-      <File FileName="Konsol/Naviger.cs" Line="25" Column="27" />
+      <File FileName="Konsol/Naviger.cs" Line="26" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
