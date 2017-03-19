@@ -1,0 +1,10 @@
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/IStruktur/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/IStruktur/bin/Debug/IStruktur.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/IStruktur/bin/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/IStruktur/obj/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/IStruktur/obj/Debug/IStruktur.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/IStruktur/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/IStruktur/bin/Debug/IStruktur.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/IStruktur/bin/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/IStruktur/obj/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/IStruktur/obj/Debug/IStruktur.dll.mdb

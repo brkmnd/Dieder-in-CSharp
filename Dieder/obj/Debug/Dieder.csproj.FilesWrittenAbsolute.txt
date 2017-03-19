@@ -1,0 +1,6 @@
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/bin/Debug/Dieder.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/bin/Debug/Dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/obj/Debug/Dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/obj/Debug/Dieder.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/DiederGrupper/GtkGrupper/Dieder/bin/Debug/dieder.dll

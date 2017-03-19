@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows", "GtkGrupper\Windows.csproj", "{036AB658-18FC-42BF-BEEF-A97B532C9A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konsol", "Konsol\Konsol.csproj", "{42AD1047-F283-496D-BF96-F1EC069BFA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strukturer", "IStruktur\Strukturer.csproj", "{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiederGrupper", "Dieder\DiederGrupper.csproj", "{64085EDA-163B-4AAA-A6BF-528804C7731F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036AB658-18FC-42BF-BEEF-A97B532C9A96}.Debug|x86.ActiveCfg = Debug|x86
+		{036AB658-18FC-42BF-BEEF-A97B532C9A96}.Debug|x86.Build.0 = Debug|x86
+		{036AB658-18FC-42BF-BEEF-A97B532C9A96}.Release|x86.ActiveCfg = Release|x86
+		{036AB658-18FC-42BF-BEEF-A97B532C9A96}.Release|x86.Build.0 = Release|x86
+		{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{08BD7DBF-B136-49C4-8BDD-0C944B0786DA}.Release|x86.Build.0 = Release|Any CPU
+		{42AD1047-F283-496D-BF96-F1EC069BFA10}.Debug|x86.ActiveCfg = Debug|x86
+		{42AD1047-F283-496D-BF96-F1EC069BFA10}.Debug|x86.Build.0 = Debug|x86
+		{42AD1047-F283-496D-BF96-F1EC069BFA10}.Release|x86.ActiveCfg = Release|x86
+		{42AD1047-F283-496D-BF96-F1EC069BFA10}.Release|x86.Build.0 = Release|x86
+		{64085EDA-163B-4AAA-A6BF-528804C7731F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{64085EDA-163B-4AAA-A6BF-528804C7731F}.Debug|x86.Build.0 = Debug|Any CPU
+		{64085EDA-163B-4AAA-A6BF-528804C7731F}.Release|x86.ActiveCfg = Release|Any CPU
+		{64085EDA-163B-4AAA-A6BF-528804C7731F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
