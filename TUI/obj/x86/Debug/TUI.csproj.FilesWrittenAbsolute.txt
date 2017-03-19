@@ -1,0 +1,10 @@
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/Konsol.exe.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/Konsol.exe
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/obj/x86/Debug/Konsol.exe
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/obj/x86/Debug/Konsol.exe.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/IStruktur.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/IStruktur.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/Dieder.dll
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/Dieder.dll.mdb
+/home/birkmand/Documents/Programmering/Csharp/GtkGrupper/TUI/bin/Debug/dieder.dll

@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Konsol/Konsol.csproj">
+﻿<Properties StartupItem="TUI/TUI.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Konsol/Naviger.cs">
     <Files>
@@ -11,4 +11,9 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>GtkGrupper/Windows.csproj</String>
+    <String>Konsol/Konsol.csproj</String>
+    <String>GUI/Windows.csproj</String>
+  </DisabledProjects>
 </Properties>
